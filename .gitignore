@@ -1,0 +1,4 @@
+node_modules/
+afa_data.xlsx
+logs/
+.env
